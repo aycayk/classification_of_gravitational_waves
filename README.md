@@ -45,5 +45,7 @@ Python Libraries: LALSimulation, PyCBC, GWpy, TensorFlow, NumPy, Matplotlib
 
 Data Sources:
 Synthetic data generated using LALSimulation
+
 Real data from the Gravitational Wave Open Science Center (GWOSC)
+
 Deep Learning Framework: TensorFlow/Keras (LSTM)
